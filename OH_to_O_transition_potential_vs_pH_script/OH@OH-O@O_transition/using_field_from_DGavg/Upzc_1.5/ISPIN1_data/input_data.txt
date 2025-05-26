@@ -1,0 +1,2 @@
+0.17  #DG_diff_OH_0
+1.69  #DG_diff_O_0
